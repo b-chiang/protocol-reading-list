@@ -1,6 +1,6 @@
 # protocol-reading-list
 
-A list of resources for people that want to understand how specific protocols work.
+A list of resources for understanding how specific protocols work.
 
 [MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) by [@0xmebius](https://twitter.com/0xmebius) is a good starting point if you're new.
 
