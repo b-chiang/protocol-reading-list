@@ -1,8 +1,8 @@
 # protocol-reading-list
 
-A list of resources for understanding protocols.
+A list of resources for people that want to understand how specific protocols work.
 
-If you're completely new to defi, I'd recommend reading [MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) by [@0xmebius](https://twitter.com/0xmebius). Blog posts and docs are a good starting point.
+[MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) by [@0xmebius](https://twitter.com/0xmebius) is a good starting point if you're new.
 
 ## Constant Function Market Makers (CFMMs)
 
