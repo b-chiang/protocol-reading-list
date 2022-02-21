@@ -63,6 +63,7 @@ Then read this:
 
 - [DeFi liquidity management via Optimal Control:
   Ohm as a case study (PDF)](https://people.eecs.berkeley.edu/~ksk/files/Ohm_Liquidity_Management.pdf)
+- [Liquidity management for protocols](https://kydo.substack.com/p/palm-protocol-owned-active-liquidity)
 
 ## Lending
 
