@@ -92,7 +92,7 @@ Then read this:
   - [tbDEX](https://github.com/TBD54566975/tbdex-whitepaper) for decentralized ramps
   - [Sardine](https://www.sardine.ai/) for faster settlement
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
-  - Applied ZK hacks from [0xPARC](https://0xparc.org/blog)
-- Can we do more numerical computing on-chain?
+  - [Applied ZK hacks](https://0xparc.org/blog) from 0xPARC
+- What are the computational limits of what we can do on-chain?
   - [Aleo](https://www.aleo.org/blog)
   - [guiltygyoza](https://github.com/guiltygyoza?tab=repositories)
