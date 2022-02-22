@@ -141,6 +141,7 @@ Getting into defi requires a ton of steps + delays. How can we simplify the onbo
 - [Protocol Assessment Reports](https://gauntlet.network/research/) from Gauntlet
 - [Gauntlet Blog (medium.com)](https://medium.com/gauntlet-networks)
 - [A list of open problems in DeFi](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ) by [0xemperor](https://twitter.com/0x_emperor)
+- [Chi Gastoken (blog.1inch.io)](https://blog.1inch.io/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) 👀 - h/t to Kai
 
 ## Applied ZK
 
@@ -148,6 +149,7 @@ Start with these:
 
 - [ZK Learning Group Topics (notion.so)](https://0xparc.notion.site/ZK-Learning-Group-Topics-f53933eecc2f41438c6c2bdd5b42ee2d) from [0xPARC](https://0xparc.org/)
 - [A Succinct Story of Zero Knowledge](https://nibnalin.me/assets/zk.pdf) from [nibnalin](https://nibnalin.me/)
+- [ZK: Zero to Hero (notion.site)](https://steelperlot.notion.site/steelperlot/ZK-Zero-to-Hero-1157a665a4a249d9805aebd5efea6460) from [@eric_ruleman](https://twitter.com/eric_ruleman)
 
 A useful reference:
 
