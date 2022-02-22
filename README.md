@@ -67,6 +67,7 @@ Work from [Guillermo Angeris](https://twitter.com/GuilleAngeris), [Tarun Chitra]
 - [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) from [Guillaume Lambert](https://lambertlab.io/)
 - [Replicating Market Makers](https://arxiv.org/abs/2103.14769)
 - [Replicating Monotonic Payoffs Without Oracles](https://arxiv.org/pdf/2111.13740.pdf)
+- [Primitive Finance](https://primitive.finance/whitepaper-rmm-01.pdf)
 
 More details at [0xperp/defi-derivatives#option-amms](https://github.com/0xperp/defi-derivatives#option-amms).
 
@@ -86,7 +87,7 @@ Read these:
 - [FAQ（docs.olympusdao.finance)](https://docs.olympusdao.finance/main/basics/basics)
 - [A Beginner’s Guide to Navigating Olympus Pro (medium.com)](https://olympusdao.medium.com/a-beginners-guide-to-navigating-olympus-pro-5b1a9b710075)
 - [A Primer on Bonding (medium.com)](https://olympusdao.medium.com/a-primer-on-oly-bonds-9763f125c124)
-
+- 
 Then read this:
 
 - [DeFi liquidity management via Optimal Control:
@@ -126,3 +127,36 @@ Then read this:
 - What are the computational limits of what we can do on-chain?
   - [Aleo](https://www.aleo.org/blog)
   - [guiltygyoza](https://github.com/guiltygyoza?tab=repositories)
+
+## Cryptography
+
+### Asymetric Encryption
+
+- [RSA Algorithm](https://www.di-mgt.com.au/rsa_alg.html)
+- [Math of Elliptic Curves](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
+- [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
+- [Elliptic Curve Signatures](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
+- [Shamirs Secret Sharing](https://www.youtube.com/watch?v=iFY5SyY3IMQ)
+- [Learning with errors (post quantum)](https://www.youtube.com/watch?v=Lo-_ZBqGa7I&t=3263s)
+
+### Snarks
+
+- [ZKsnarks gentle intro](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
+- [Vitalik Intro](https://vitalik.ca/general/2021/01/26/snarks.html)
+- [Halo from Vitalik](https://vitalik.ca/general/2021/11/05/halo.html)
+- [Halo paper](https://eprint.iacr.org/2020/1536.pdf)
+- [Plonk Paper](https://eprint.iacr.org/2019/953.pdf)
+- [Vitalik on Plonk](https://vitalik.ca/general/2019/09/22/plonk.html)
+- [Bullet Proofs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8418611&casa_token=fnoYbp0lh0EAAAAA:phMecxsJ9VkVcDXOdYsZU36kJf5QV8EFLbuzVOE6b28dIhjlCMzdg1D4qP-Iw0am_mArzCqf9Kw)
+- [Nova Paper](https://eprint.iacr.org/2021/370.pdf)
+
+### Hashing
+
+- [Keccak](https://keccak.team/keccak.html)
+
+### MISC
+
+- [Pairings from Dan Boneh](https://www.youtube.com/watch?v=8WDOpzxpnTE&t=4651s)
+- [Vitaliks blogs on pairings](https://vitalik.ca/general/2017/01/14/exploring_ecp.html)
+
+
