@@ -14,7 +14,9 @@ Slides and videos available online for both.
 
 - [Algorithmic Game Theoery](http://timroughgarden.org/f10/f10.html) from [Tim Roughgarden](http://theory.stanford.edu/~tim/)
 - [Convex Optimization](https://web.stanford.edu/class/ee364a/) by [Stephen Boyd](https://web.stanford.edu/~boyd/)
-- [Mathematics of Finance](https://www.google.com/books/edition/Mathematics_of_Finance/K2SsDwAAQBAJ?hl=en) from [Donald Saari]
+- [Mathematics of Finance](https://www.google.com/books/edition/Mathematics_of_Finance/K2SsDwAAQBAJ?hl=en) from [Don Saari](https://www.math.uci.edu/~dsaari/)
+- [A Graduate Course in
+  Applied Cryptography](https://toc.cryptobook.us/) from [Dan Boneh](https://crypto.stanford.edu/~dabo) and [Victor Shoup](https://www.shoup.net/)
 
 ## Constant Function Market Makers (CFMMs)
 
