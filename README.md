@@ -1,8 +1,20 @@
 # protocol-reading-list
 
-A list of resources for understanding how specific protocols work.
+A list of resources for understanding how protocols work.
 
-[MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) by [@0xmebius](https://twitter.com/0xmebius) is a good starting point if you're new.
+## Getting Started
+
+- [MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) by [@0xmebius](https://twitter.com/0xmebius) is a good overview
+- [DeFi MOOC (Fall 2021)](https://defi-learning.org/) from Dan Boneh Arthur Gervais, Andrew Miller, Christine Parlour, Dawn Song
+- [Special Topics in DeFi](https://berkeley-defi.github.io/f21) from Dawn Song
+
+Slides and videos available online for both.
+
+### References
+
+- [Algorithmic Game Theoery](http://timroughgarden.org/f10/f10.html) from [Tim Roughgarden](http://theory.stanford.edu/~tim/)
+- [Convex Optimization](https://web.stanford.edu/class/ee364a/) by [Stephen Boyd](https://web.stanford.edu/~boyd/)
+- [Mathematics of Finance](https://www.google.com/books/edition/Mathematics_of_Finance/K2SsDwAAQBAJ?hl=en)
 
 ## Constant Function Market Makers (CFMMs)
 
@@ -10,12 +22,18 @@ Decentralized exchanges (DEXes) and automated market makers (AMMs).
 
 ### Uniswap
 
+**V2**
+
+- [Uniswap V1 Whitepaper](https://hackmd.io/@HaydenAdams/HJ9jLsfTz)
 - [How Uniswap works - V2 (uniswap.org)](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)
-- [Uniswap V1 Whitepaper (PDF)](https://hackmd.io/@HaydenAdams/HJ9jLsfTz)
 - [Uniswap V2 Whitepaper（PDF）](https://uniswap.org/whitepaper.pdf)
+
+**V3**
+
 - [Introducing Uniswap V3 (uniswap.org/blog)](https://uniswap.org/blog/uniswap-v3)
 - [What is Uniswap - V3 (docs.uniswap.org)](https://docs.uniswap.org/protocol/introduction)
 - [Uniswap V3 Whitepaper (PDF)](https://uniswap.org/whitepaper-v3.pdf)
+- [Interactive graphs in Desmos for Uniswap V3](https://twitter.com/danrobinson/status/1430299243550593024?lang=en) from [@danrobinson](https://twitter.com/danrobinson)
 
 ### Curve
 
@@ -26,7 +44,7 @@ Decentralized exchanges (DEXes) and automated market makers (AMMs).
 
 ### CFMM Analysis
 
-Mostly work from ACE and others.
+Work from [Guillermo Angeris](https://twitter.com/GuilleAngeris), [Tarun Chitra](https://twitter.com/tarunchitra), [Alex Evans](https://twitter.com/alexhevans) et. al.
 
 - [An analysis of Uniswap markets (PDF)](https://arxiv.org/pdf/1911.03380.pdf)
 - [Multi-asset trades via convex optimization (PDF)](https://arxiv.org/pdf/2107.12484.pdf)
@@ -35,12 +53,22 @@ Mostly work from ACE and others.
 - [Optimal Routing for Constant Function Market Makers (PDF)](https://web.stanford.edu/~guillean/papers/cfmm-routing.pdf)
 - [When does the tail wag the dog? Curvature and market making (PDF)](https://arxiv.org/pdf/2012.08040.pdf)
 
-Privacy-preserving CFMMs:
+### Privacy-preserving CFMMs
 
 - [A Note on Privacy in Constant Function Market Makers (PDF)](https://arxiv.org/pdf/2103.01193.pdf)
 - [Differential Privacy in Constant Function Market
   Makers (PDF)](https://eprint.iacr.org/2021/1101.pdf)
 - [Osmosis](https://app.osmosis.zone/?from=ATOM&to=OSMO) + [Cosmos](https://v1.cosmos.network/resources/whitepaper)
+
+### Options
+
+- [Virtual AMM (vAMM): Perpetual Protocol](https://blog.perp.fi/a-deep-dive-into-our-virtual-amm-vamm-40345c522eeb)
+- [Drift Dynamic AMM](https://docs.drift.trade/drift-dynamic-amm)
+- [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) from [Guillaume Lambert](https://lambertlab.io/)
+- [Replicating Market Makers](https://arxiv.org/abs/2103.14769)
+- [Replicating Monotonic Payoffs Without Oracles](https://arxiv.org/pdf/2111.13740.pdf)
+
+More details at [0xperp/defi-derivatives#option-amms](https://github.com/0xperp/defi-derivatives#option-amms).
 
 ### LPing on Uniswap V3
 
@@ -77,7 +105,7 @@ Then read this:
 - [MakerDAO Whitepaper](https://makerdao.com/en/whitepaper/#abstract)
 - [Fei Whitepaper](https://fei.money/static/media/whitepaper.7d5e2986.pdf)
 - [Lemma Whitepaper](https://docs.lemma.finance/concepts-overview/perpetual-contracts)
-  - The sections under "Concepts Overview"
+  - Sections under "Concepts Overview"
 
 ## Derivatives
 
@@ -87,6 +115,7 @@ Then read this:
 ## Other
 
 - [Crocswap](https://www.crocswap.com/whitepaper)
+  - V2 + V3?
 - [Protocol Assessment Reports](https://gauntlet.network/research/) from Gauntlet
 - [A list of open problems in DeFi](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ) by [0xemperor](https://twitter.com/0x_emperor)
 - How do we build better fiat on-ramps/off-ramps?
