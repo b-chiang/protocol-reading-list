@@ -111,6 +111,7 @@ And this:
 
 - [Yearn Vaults](https://docs.yearn.finance/getting-started/products/yvaults/overview)
 - [Rari Capital - Fuse (medium.com)](https://medium.com/rari-capital/fuse-explained-3ef2e0747953)
+- [Balancer Whitepaper (PDF)](https://balancer.fi/whitepaper.pdf)
 
 ## Lending
 
@@ -130,6 +131,10 @@ And this:
 
 - [tbDEX](https://github.com/TBD54566975/tbdex-whitepaper) for decentralized ramps
 - [Sardine](https://www.sardine.ai/) for faster settlement
+
+Getting into defi requires a ton of steps + delays. How can we simplify the onboarding process?
+
+- [Argent](https://www.argent.xyz/)
 
 ## Other
 
@@ -155,6 +160,7 @@ Then check out this list:
 And these hacks:
 
 - https://0xparc.org/blog
+- [guiltygyoza](https://github.com/guiltygyoza?tab=repositories) on [StarkNet + Cairo](https://www.cairo-lang.org/docs/)
 
 For more background:
 
