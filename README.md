@@ -115,7 +115,7 @@ Then read this:
 ## Other
 
 - [Crocswap](https://www.crocswap.com/whitepaper)
-  - V2 + V3?
+  - Uniswap V2 + V3
 - [Protocol Assessment Reports](https://gauntlet.network/research/) from Gauntlet
 - [A list of open problems in DeFi](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ) by [0xemperor](https://twitter.com/0x_emperor)
 - How do we build better fiat on-ramps/off-ramps?
