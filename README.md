@@ -30,6 +30,12 @@ Trading via decentralized exchanges (DEXes) and automated market makers (AMMs).
 - [How Uniswap works - V2 (uniswap.org)](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works)
 - [Uniswap V2 Whitepaper（PDF）](https://uniswap.org/whitepaper.pdf)
 
+Also:
+
+- [Uniswap: A Good Deal for Liquidity Providers? (medium.com)](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+- [Understanding Uniswap Returns (medium.com)](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
+- [On AMMS (vitalik.ca)](https://vitalik.ca/general/2017/06/22/marketmakers.html)
+
 **V3**
 
 - [Introducing Uniswap V3 (uniswap.org/blog)](https://uniswap.org/blog/uniswap-v3)
@@ -42,7 +48,6 @@ Also:
 
 - [Liquidity Mining on Uniswap v3 (paradigm.xyz)](https://www.paradigm.xyz/2021/05/liquidity-mining-on-uniswap-v3)
 - [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) from [Guillaume Lambert](https://lambertlab.io/)
-- [Crocswap Whitepaper](https://www.crocswap.com/whitepaper)
 
 ### Curve
 
@@ -51,6 +56,16 @@ Also:
 - [Curve DAO Whitepapers (PDF)](https://curve.fi/files/CurveDAO.pdf)
 - [Curve Wars (every.to)](https://every.to/almanack/curve-wars) from [@nateliason](https://twitter.com/nateliason)
 
+### Other Designs
+
+- [Nested AMMs (dropbox.com)](https://www.dropbox.com/s/sxwly0gn4fyj1uc/nestedamm.pdf?dl=0) from [Anthony Lee Zhang](https://twitter.com/AnthonyLeeZhang)
+- [TWAMM (paradigm.xyz)](https://www.paradigm.xyz/2021/07/twamm)
+- [Mooniswap Whitepaper (PDF)](https://mooniswap.exchange/docs/MooniswapWhitePaper-v1.0.pdf)
+- [dYdX Whitepaper (PDF)](https://whitepaper.dydx.exchange/)
+- [Crocswap Whitepaper](https://www.crocswap.com/whitepaper)
+- [Toxic Flow: Its Sources and Counter-Strategies (deribit.com)](https://insights.deribit.com/market-research/toxic-flow-its-sources-and-counter-strategies/)
+- [Flash Boys 2.0 (PDF)](https://arxiv.org/pdf/1904.05234.pdf)
+
 ### CFMM Analysis
 
 Work from [@GuilleAngeris](https://twitter.com/GuilleAngeris), [@tarunchitra](https://twitter.com/tarunchitra), [@alexhevans](https://twitter.com/alexhevans) and more
@@ -58,6 +73,7 @@ Work from [@GuilleAngeris](https://twitter.com/GuilleAngeris), [@tarunchitra](ht
 - [An analysis of Uniswap markets (PDF)](https://arxiv.org/pdf/1911.03380.pdf)
 - [Multi-asset trades via convex optimization (PDF)](https://arxiv.org/pdf/2107.12484.pdf)
 - [Improved Price Oracles: Constant Function Market Makers (PDF)](https://arxiv.org/abs/2003.10001)
+- [Liquidity Provider Returns in Geometric Mean Markets](https://arxiv.org/pdf/2006.08806.pdf)
 - [Optimal Fees for Geometric Mean Market Makers (PDF)](https://web.stanford.edu/~guillean/papers/g3m-optimal-fee.pdf)
 - [Optimal Routing for Constant Function Market Makers (PDF)](https://web.stanford.edu/~guillean/papers/cfmm-routing.pdf)
 - [When does the tail wag the dog? Curvature and market making (PDF)](https://arxiv.org/pdf/2012.08040.pdf)
@@ -67,7 +83,7 @@ Work from [@GuilleAngeris](https://twitter.com/GuilleAngeris), [@tarunchitra](ht
 - [A Note on Privacy in Constant Function Market Makers (PDF)](https://arxiv.org/pdf/2103.01193.pdf)
 - [Differential Privacy in Constant Function Market
   Makers (PDF)](https://eprint.iacr.org/2021/1101.pdf)
-- [Osmosis](https://app.osmosis.zone/?from=ATOM&to=OSMO) + [Cosmos](https://v1.cosmos.network/resources/whitepaper)
+- Check out the interchain future @ [Osmosis](https://app.osmosis.zone/?from=ATOM&to=OSMO) + [Cosmos](https://v1.cosmos.network/resources/whitepaper)
 
 ### Options
 
@@ -105,13 +121,15 @@ Then read these:
 
 And this:
 
-- [Active liquidity management for protocols](https://kydo.substack.com/p/palm-protocol-owned-active-liquidity)
+- [Active liquidity management for protocols (substack.com)](https://kydo.substack.com/p/palm-protocol-owned-active-liquidity)
 
 ## Asset Management
 
 - [Yearn Vaults](https://docs.yearn.finance/getting-started/products/yvaults/overview)
 - [Rari Capital - Fuse (medium.com)](https://medium.com/rari-capital/fuse-explained-3ef2e0747953)
 - [Balancer Whitepaper (PDF)](https://balancer.fi/whitepaper.pdf)
+
+Similar to [Tetranode's Locker](https://app.rari.capital/fuse/pool/6) on Rari, there could be a service that allows influencers to create custom Yearn vaults that their followers can one-click deposit liquidity into. For followers: instant yield + no time wasted trying to manually strategies; for influencers: easy way to monetize their strategies. h/t John
 
 ## Lending
 
@@ -139,7 +157,7 @@ Decentralized banks.
 - [Gauntlet Protocol Assessment Reports](https://gauntlet.network/research/)
 - [Gauntlet Blog (medium.com)](https://medium.com/gauntlet-networks)
 - [A list of open problems in DeFi](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ) by [0xemperor](https://twitter.com/0x_emperor)
-- [Chi Gastoken (blog.1inch.io)](https://blog.1inch.io/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) 👀 - h/t to Kai
+- [Chi Gastoken (blog.1inch.io)](https://blog.1inch.io/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - h/t Kai
 - [Flexible Anonymous Transactions: Flax (PDF)](https://eprint.iacr.org/2021/1249.pdf)
 
 ## Applied ZK
@@ -156,7 +174,7 @@ Then dive deeper with these:
 - https://people.eecs.berkeley.edu/~alexch/#teaching
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 
-Check out these hacks:
+And check out these hacks:
 
 - https://0xparc.org/blog
 - [guiltygyoza](https://github.com/guiltygyoza?tab=repositories) on [StarkNet + Cairo](https://www.cairo-lang.org/docs/)
@@ -187,6 +205,6 @@ For more background:
 
 **Other**
 
-- [Keccak](https://keccak.team/keccak.html)
+- [keccak](https://keccak.team/keccak.html)
 - [Pairings (youtube.com)](https://www.youtube.com/watch?v=8WDOpzxpnTE&t=4651s) from Dan Boneh
 - [Pairings (vitalik.ca)](https://vitalik.ca/general/2017/01/14/exploring_ecp.html)
