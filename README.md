@@ -174,6 +174,7 @@ Then dive deeper with these:
 
 - [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) from [Justin Thaler](https://people.cs.georgetown.edu/jthaler/)
 - https://people.eecs.berkeley.edu/~alexch/#teaching
+  - Specifically [CS602: Foundations of Probabilistic Proofs (S2022)](https://people.eecs.berkeley.edu/~alexch/classes/CS602-S2022.html)
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 
 And check out these hacks:
