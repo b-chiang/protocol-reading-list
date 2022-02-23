@@ -54,9 +54,10 @@ Also:
 - [Curve StableSwap Whitepaper (PDF)](https://curve.fi/files/stableswap-paper.pdf)
 - [Curve Crypto Pools Whitepaper (PDF)](https://curve.fi/files/crypto-pools-paper.pdf)
 - [Curve DAO Whitepapers (PDF)](https://curve.fi/files/CurveDAO.pdf)
+- [Understanding StableSwap (Curve)](https://miguelmota.com/blog/understanding-stableswap-curve/)
 - [Curve Wars (every.to)](https://every.to/almanack/curve-wars) from [@nateliason](https://twitter.com/nateliason)
 
-### Other Designs
+## Other Designs
 
 - [Nested AMMs (dropbox.com)](https://www.dropbox.com/s/sxwly0gn4fyj1uc/nestedamm.pdf?dl=0) from [Anthony Lee Zhang](https://twitter.com/AnthonyLeeZhang)
 - [TWAMM (paradigm.xyz)](https://www.paradigm.xyz/2021/07/twamm)
@@ -152,11 +153,12 @@ Decentralized banks.
 - [tbDEX](https://github.com/TBD54566975/tbdex-whitepaper) for decentralized ramps
 - [Sardine](https://www.sardine.ai/) for faster settlement
 
-## Other
+## Miscellaneous
 
 - [Gauntlet Protocol Assessment Reports](https://gauntlet.network/research/)
 - [Gauntlet Blog (medium.com)](https://medium.com/gauntlet-networks)
 - [A list of open problems in DeFi](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ) by [0xemperor](https://twitter.com/0x_emperor)
+- [0xalpharush/awesome-MEV-resources](https://github.com/0xalpharush/awesome-MEV-resources)
 - [Chi Gastoken (blog.1inch.io)](https://blog.1inch.io/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - h/t Kai
 - [Flexible Anonymous Transactions: Flax (PDF)](https://eprint.iacr.org/2021/1249.pdf)
 
