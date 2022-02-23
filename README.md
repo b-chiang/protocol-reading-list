@@ -35,6 +35,7 @@ Also:
 - [Uniswap: A Good Deal for Liquidity Providers? (medium.com)](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 - [Understanding Uniswap Returns (medium.com)](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
 - [On AMMS (vitalik.ca)](https://vitalik.ca/general/2017/06/22/marketmakers.html)
+- [Background on MM in tradfi (PDF)](http://stanford.edu/class/msande448/2018/Final/Reports/gr5.pdf)
 
 **V3**
 
