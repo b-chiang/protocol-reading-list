@@ -1,6 +1,6 @@
 # protocol-reading-list
 
-A list of resources for understanding how protocols work.
+A list of resources for understanding crypto protocols.
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ Slides and videos available online for both.
 
 ## Constant Function Market Makers (CFMMs)
 
-Decentralized exchanges (DEXes) and automated market makers (AMMs).
+Trading via decentralized exchanges (DEXes) and automated market makers (AMMs).
 
 ### Uniswap
 
@@ -34,7 +34,7 @@ Decentralized exchanges (DEXes) and automated market makers (AMMs).
 
 - [Introducing Uniswap V3 (uniswap.org/blog)](https://uniswap.org/blog/uniswap-v3)
 - [What is Uniswap - V3 (docs.uniswap.org)](https://docs.uniswap.org/protocol/introduction)
-- [Uniswap v3: The Universal AMM (paradigm.xyz)](https://www.paradigm.xyz/2021/06/uniswap-v3-the-universal-amm)
+- [Uniswap V3: The Universal AMM (paradigm.xyz)](https://www.paradigm.xyz/2021/06/uniswap-v3-the-universal-amm)
 - [Uniswap V3 Whitepaper (PDF)](https://uniswap.org/whitepaper-v3.pdf)
 - [Interactive graphs in Desmos for Uniswap V3](https://twitter.com/danrobinson/status/1430299243550593024?lang=en) from [@danrobinson](https://twitter.com/danrobinson)
 
@@ -78,7 +78,7 @@ Work from [@GuilleAngeris](https://twitter.com/GuilleAngeris), [@tarunchitra](ht
 - [Primitive Finance](https://primitive.finance/whitepaper-rmm-01.pdf)
 - [Why Stake When You Can Borrow?](https://arxiv.org/abs/2006.11156)
 
-More resources at [0xperp/defi-derivatives#option-amms](https://github.com/0xperp/defi-derivatives#option-amms). The entire list is also great.
+More resources at [0xperp/defi-derivatives#option-amms](https://github.com/0xperp/defi-derivatives#option-amms). The entire list on derivatives is also great.
 
 ### LPing on Uniswap V3
 
@@ -115,6 +115,8 @@ And this:
 
 ## Lending
 
+Decentralized banks.
+
 - [Aave Whitepaper (PDF)](https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf)
 - [Compound Whitepaper（PDF)](https://compound.finance/documents/Compound.Whitepaper.pdf)
 
@@ -132,16 +134,13 @@ And this:
 - [tbDEX](https://github.com/TBD54566975/tbdex-whitepaper) for decentralized ramps
 - [Sardine](https://www.sardine.ai/) for faster settlement
 
-Getting into defi requires a ton of steps + delays. How can we simplify the onboarding process?
-
-- [Argent](https://www.argent.xyz/)
-
 ## Other
 
-- [Protocol Assessment Reports](https://gauntlet.network/research/) from Gauntlet
+- [Gauntlet Protocol Assessment Reports](https://gauntlet.network/research/)
 - [Gauntlet Blog (medium.com)](https://medium.com/gauntlet-networks)
 - [A list of open problems in DeFi](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ) by [0xemperor](https://twitter.com/0x_emperor)
 - [Chi Gastoken (blog.1inch.io)](https://blog.1inch.io/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) 👀 - h/t to Kai
+- [Flexible Anonymous Transactions: Flax (PDF)](https://eprint.iacr.org/2021/1249.pdf)
 
 ## Applied ZK
 
@@ -151,15 +150,13 @@ Start with these:
 - [A Succinct Story of Zero Knowledge](https://nibnalin.me/assets/zk.pdf) from [nibnalin](https://nibnalin.me/)
 - [ZK: Zero to Hero (notion.site)](https://steelperlot.notion.site/steelperlot/ZK-Zero-to-Hero-1157a665a4a249d9805aebd5efea6460) from [@eric_ruleman](https://twitter.com/eric_ruleman)
 
-A useful reference:
+Then dive deeper with these:
 
 - [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) from [Justin Thaler](https://people.cs.georgetown.edu/jthaler/)
-
-Then check out this list:
-
+- https://people.eecs.berkeley.edu/~alexch/#teaching
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 
-And these hacks:
+Check out these hacks:
 
 - https://0xparc.org/blog
 - [guiltygyoza](https://github.com/guiltygyoza?tab=repositories) on [StarkNet + Cairo](https://www.cairo-lang.org/docs/)
@@ -175,7 +172,7 @@ For more background:
 - [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
 - [Elliptic Curve Signatures](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 - [Shamirs Secret Sharing (youtube.com)](https://www.youtube.com/watch?v=iFY5SyY3IMQ)
-- [Learning with errors post-quantum](https://www.youtube.com/watch?v=Lo-_ZBqGa7I&t=3263s)
+- [Learning with errors post-quantum (youtube.com)](https://www.youtube.com/watch?v=Lo-_ZBqGa7I&t=3263s)
 
 **SNARKs**
 
