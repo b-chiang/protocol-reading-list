@@ -57,6 +57,7 @@ Also:
 - [Curve DAO Whitepapers (PDF)](https://curve.fi/files/CurveDAO.pdf)
 - [Understanding StableSwap (Curve)](https://miguelmota.com/blog/understanding-stableswap-curve/)
 - [Curve Wars (every.to)](https://every.to/almanack/curve-wars) from [@nateliason](https://twitter.com/nateliason)
+- [Department of Gauge Defense (Curve)](https://cryptorisks.substack.com/)
 
 ## Other Designs
 
