@@ -12,7 +12,7 @@ Slides and videos available online for both.
 
 ### References
 
-- [Algorithmic Game Theoery](http://timroughgarden.org/f10/f10.html) from [Tim Roughgarden](http://theory.stanford.edu/~tim/)
+- [Algorithmic Game Theory](http://timroughgarden.org/f10/f10.html) from [Tim Roughgarden](http://theory.stanford.edu/~tim/)
 - [Convex Optimization](https://web.stanford.edu/class/ee364a/) by [Stephen Boyd](https://web.stanford.edu/~boyd/)
 - [Mathematics of Finance](https://www.google.com/books/edition/Mathematics_of_Finance/K2SsDwAAQBAJ?hl=en) from [Don Saari](https://www.math.uci.edu/~dsaari/)
 - [A Graduate Course in
