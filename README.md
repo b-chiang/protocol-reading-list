@@ -35,7 +35,7 @@ Also:
 - [Uniswap: A Good Deal for Liquidity Providers? (medium.com)](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 - [Understanding Uniswap Returns (medium.com)](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
 - [On AMMS (vitalik.ca)](https://vitalik.ca/general/2017/06/22/marketmakers.html)
-- [Background on MM in tradfi (PDF)](http://stanford.edu/class/msande448/2018/Final/Reports/gr5.pdf)
+- [Background on MMs in traditional finance (PDF)](http://stanford.edu/class/msande448/2018/Final/Reports/gr5.pdf)
 
 **V3**
 
@@ -130,9 +130,15 @@ And this:
 
 - [Yearn Vaults](https://docs.yearn.finance/getting-started/products/yvaults/overview)
 - [Rari Capital - Fuse (medium.com)](https://medium.com/rari-capital/fuse-explained-3ef2e0747953)
-- [Balancer Whitepaper (PDF)](https://balancer.fi/whitepaper.pdf)
 
 Similar to [Tetranode's Locker](https://app.rari.capital/fuse/pool/6) on Rari, there could be a service that allows influencers to create custom Yearn vaults that their followers can one-click deposit liquidity into. For followers: instant yield + no time wasted trying to manually strategies; for influencers: easy way to monetize their strategies. h/t John
+
+### Balancer
+
+- [Balancer Basics](https://token-engineering-balancer.gitbook.io/balancer-simulations/understanding-balancer-amms/balancer-basics)
+- [Balancer Whitepaper (PDF)](https://balancer.fi/whitepaper.pdf)
+- [Calculating Value, Impermanent Loss and Slippage for Balancer Pools (medium.com)](https://medium.com/balancer-protocol/calculating-value-impermanent-loss-and-slippage-for-balancer-pools-4371a21f1a86)
+- [Capital-Efficient AMMs With Dynamically Adjusted Weights In Balancer V2 (medium.com)](https://medium.com/balancer-protocol/capital-efficient-amms-with-dynamically-adjusted-weights-in-balancer-v2-9a7104789cd7)
 
 ## Lending
 
