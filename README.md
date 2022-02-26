@@ -6,7 +6,6 @@ A list of resources for understanding crypto protocols.
 
 - [MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) by [@0xmebius](https://twitter.com/0xmebius) is a good overview
 - [DeFi MOOC (Fall 2021)](https://defi-learning.org/) from Dan Boneh Arthur Gervais, Andrew Miller, Christine Parlour, Dawn Song
-
 - [Special Topics in DeFi](https://berkeley-defi.github.io/f21) from Dawn Song
 
 Slides and videos available online for both.
