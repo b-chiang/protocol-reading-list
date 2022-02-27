@@ -172,7 +172,7 @@ Decentralized banks.
 - [Chi Gastoken (blog.1inch.io)](https://blog.1inch.io/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - h/t Kai
 - [Flexible Anonymous Transactions: Flax (PDF)](https://eprint.iacr.org/2021/1249.pdf)
 
-## Applied ZK
+## kZK
 
 Start with these:
 
@@ -190,6 +190,7 @@ Then dive deeper with these:
 And check out these hacks:
 
 - https://0xparc.org/blog
+- [Thinking in ZK](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 - [guiltygyoza](https://github.com/guiltygyoza?tab=repositories) on [StarkNet + Cairo](https://www.cairo-lang.org/docs/)
 
 For more background:
