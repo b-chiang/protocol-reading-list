@@ -222,3 +222,8 @@ For more background:
 - [keccak](https://keccak.team/keccak.html)
 - [Pairings (youtube.com)](https://www.youtube.com/watch?v=8WDOpzxpnTE&t=4651s) from Dan Boneh
 - [Pairings (vitalik.ca)](https://vitalik.ca/general/2017/01/14/exploring_ecp.html)
+
+**EPNS**
+- [EPNS Push Node](https://medium.com/ethereum-push-notification-service/push-nodes-p2p-web3s-way-to-communicate-6a473577d173#:~:text=Push%20Nodes%20are%20the%20central,of%20Web3%20notifications%20to%20work.&text=Listening%3A%20Push%20Nodes%20listens%20to,a%20backend%20or%20a%20dApp.)
+- [EPNS Core Comm Contract](https://medium.com/ethereum-push-notification-service/roadmap-q3-audited-epns-push-protocol-v1-is-here-f4560dfe550c)
+- 
