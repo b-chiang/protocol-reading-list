@@ -60,6 +60,7 @@ Also:
 - [Understanding StableSwap (Curve)](https://miguelmota.com/blog/understanding-stableswap-curve/)
 - [Curve Wars (every.to)](https://every.to/almanack/curve-wars) from [@nateliason](https://twitter.com/nateliason)
 - [Department of Gauge Defense (Curve)](https://cryptorisks.substack.com/)
+- [Convex - A Curve Overlay](https://www.tinkeringsociety.xyz/post/analysis-of-convex-finance-cvx)
 
 ## Other Designs
 
@@ -70,6 +71,7 @@ Also:
 - [Crocswap Whitepaper](https://www.crocswap.com/whitepaper)
 - [Toxic Flow: Its Sources and Counter-Strategies (deribit.com)](https://insights.deribit.com/market-research/toxic-flow-its-sources-and-counter-strategies/)
 - [Flash Boys 2.0 (PDF)](https://arxiv.org/pdf/1904.05234.pdf)
+- [Tokemak - A Deep Dive](https://www.tinkeringsociety.xyz/post/tokemak-a-deep-dive)
 
 ### CFMM Analysis
 
