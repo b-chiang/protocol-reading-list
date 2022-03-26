@@ -1,24 +1,36 @@
 # protocol-reading-list
 
-A list of resources for understanding crypto protocols.
+This is a list of resources intended to serve as a starting point for anybody interesting in understanding how crypto protocols work under the hood.
+
+Relevant topics to also explore include economics, finance, optimization, game theory, theoretical CS, cryptography.
 
 ## Getting Started
 
-- [MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) by [@0xmebius](https://twitter.com/0xmebius) is a good overview
+- [MEV 101](https://github.com/0xmebius/mev/blob/main/MEV101.pdf) by [@0xmebius](https://twitter.com/0xmebius)
+- [DeFi and the Future of Finance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3711777) from Ashwin Ramchandran and Joey Santoro
 - [DeFi MOOC (Fall 2021)](https://defi-learning.org/) from Dan Boneh Arthur Gervais, Andrew Miller, Christine Parlour, Dawn Song
 - [Special Topics in DeFi](https://berkeley-defi.github.io/f21) from Dawn Song
 
-Slides and videos available online for both.
+<!-- https://twitter.com/bfargher/status/1419213201774989315 -->
+
+Slides and videos are available online for both.
 
 ### References
 
 - [Algorithmic Game Theory](http://timroughgarden.org/f10/f10.html) from [Tim Roughgarden](http://theory.stanford.edu/~tim/)
   - [Foundations of Blockchains Playlist (youtube.com)](https://www.youtube.com/watch?v=KNJGPI0fuFA&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
   - [Tim Roughgarden's Channel](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg)
+- [Linear Dynamical Systems](https://stanford.edu/class/ee363/lectures.html)
 - [Convex Optimization](https://web.stanford.edu/class/ee364a/) by [Stephen Boyd](https://web.stanford.edu/~boyd/)
-- [Mathematics of Finance](https://www.google.com/books/edition/Mathematics_of_Finance/K2SsDwAAQBAJ?hl=en) from [Don Saari](https://www.math.uci.edu/~dsaari/)
 - [A Graduate Course in
   Applied Cryptography](https://toc.cryptobook.us/) from [Dan Boneh](https://crypto.stanford.edu/~dabo) and [Victor Shoup](https://www.shoup.net/)
+
+For anybody coming in without a finance background, it's worth doing some tradfi reading before you dive deep into defi.
+
+- [Investopedia](https://www.investopedia.com/trading-instruments-4427763) is a good reference
+- [Market making overview](http://stanford.edu/class/msande448/2018/Final/Reports/gr5.pdf)
+
+A good intuitive introduction is [Mathematics of Finance](https://www.google.com/books/edition/Mathematics_of_Finance/K2SsDwAAQBAJ?hl=en) from Don Saari, followed by [Arbitrage Theory in Continuous Time](https://www.amazon.com/Arbitrage-Theory-Continuous-Oxford-Finance/dp/019957474X) by Tomas Björk for more depth.
 
 ## Constant Function Market Makers (CFMMs)
 
@@ -37,7 +49,8 @@ Also:
 - [Uniswap: A Good Deal for Liquidity Providers? (medium.com)](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
 - [Understanding Uniswap Returns (medium.com)](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
 - [On AMMS (vitalik.ca)](https://vitalik.ca/general/2017/06/22/marketmakers.html)
-- [Background on MMs in traditional finance (PDF)](http://stanford.edu/class/msande448/2018/Final/Reports/gr5.pdf)
+  - https://twitter.com/danrobinson/status/1411444875325808641
+- [Background on market making (PDF)](http://stanford.edu/class/msande448/2018/Final/Reports/gr5.pdf)
 
 **V3**
 
@@ -50,7 +63,8 @@ Also:
 Also:
 
 - [Liquidity Mining on Uniswap v3 (paradigm.xyz)](https://www.paradigm.xyz/2021/05/liquidity-mining-on-uniswap-v3)
-- [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) from [Guillaume Lambert](https://lambertlab.io/)
+- [Toxic Flow: Its Sources and Counter-Strategies (deribit.com)](https://insights.deribit.com/market-research/toxic-flow-its-sources-and-counter-strategies/)
+- [Flash Boys 2.0 (PDF)](https://arxiv.org/pdf/1904.05234.pdf)
 
 ### Curve
 
@@ -59,17 +73,16 @@ Also:
 - [Curve DAO Whitepapers (PDF)](https://curve.fi/files/CurveDAO.pdf)
 - [Understanding StableSwap (Curve)](https://miguelmota.com/blog/understanding-stableswap-curve/)
 - [Curve Wars (every.to)](https://every.to/almanack/curve-wars) from [@nateliason](https://twitter.com/nateliason)
-- [Department of Gauge Defense (Curve)](https://cryptorisks.substack.com/)
 
-## Other Designs
+### Alternative Designs
 
 - [Nested AMMs (dropbox.com)](https://www.dropbox.com/s/sxwly0gn4fyj1uc/nestedamm.pdf?dl=0) from [Anthony Lee Zhang](https://twitter.com/AnthonyLeeZhang)
 - [TWAMM (paradigm.xyz)](https://www.paradigm.xyz/2021/07/twamm)
 - [Mooniswap Whitepaper (PDF)](https://mooniswap.exchange/docs/MooniswapWhitePaper-v1.0.pdf)
 - [dYdX Whitepaper (PDF)](https://whitepaper.dydx.exchange/)
 - [Crocswap Whitepaper](https://www.crocswap.com/whitepaper)
-- [Toxic Flow: Its Sources and Counter-Strategies (deribit.com)](https://insights.deribit.com/market-research/toxic-flow-its-sources-and-counter-strategies/)
-- [Flash Boys 2.0 (PDF)](https://arxiv.org/pdf/1904.05234.pdf)
+- [Cowswap](https://docs.cow.fi/)
+- [Lifinity](https://medium.com/@lifinity.io/introducing-lifinity-protocol-12ff0f5798c4)
 
 ### CFMM Analysis
 
@@ -88,7 +101,7 @@ Work from [@GuilleAngeris](https://twitter.com/GuilleAngeris), [@tarunchitra](ht
 - [A Note on Privacy in Constant Function Market Makers (PDF)](https://arxiv.org/pdf/2103.01193.pdf)
 - [Differential Privacy in Constant Function Market
   Makers (PDF)](https://eprint.iacr.org/2021/1101.pdf)
-- Check out the interchain future @ [Osmosis](https://app.osmosis.zone/?from=ATOM&to=OSMO) + [Cosmos](https://v1.cosmos.network/resources/whitepaper)
+  - [Cosmos](https://v1.cosmos.network/resources/whitepaper), [Osmosis](https://app.osmosis.zone/?from=ATOM&to=OSMO), [Penumbra](https://protocol.penumbra.zone/main/index.html)
 
 ### Options
 
@@ -98,8 +111,9 @@ Work from [@GuilleAngeris](https://twitter.com/GuilleAngeris), [@tarunchitra](ht
 - [Replicating Monotonic Payoffs Without Oracles](https://arxiv.org/pdf/2111.13740.pdf)
 - [Primitive Finance](https://primitive.finance/whitepaper-rmm-01.pdf)
 - [Why Stake When You Can Borrow?](https://arxiv.org/abs/2006.11156)
+- [Uniswap V3 LP Tokens as Perpetual Put and Call Options](https://lambert-guillaume.medium.com/uniswap-v3-lp-tokens-as-perpetual-put-and-call-options-5b66219db827) from [Guillaume Lambert](https://lambertlab.io/)
 
-More resources at [0xperp/defi-derivatives#option-amms](https://github.com/0xperp/defi-derivatives#option-amms). The entire list on derivatives is also great.
+For more detail, check out [0xperp/defi-derivatives](https://github.com/0xperp/defi-derivatives).
 
 ### LPing on Uniswap V3
 
@@ -124,16 +138,10 @@ Then read these:
 - [DeFi liquidity management via Optimal Control:
   Ohm as a case study (PDF)](https://people.eecs.berkeley.edu/~ksk/files/Ohm_Liquidity_Management.pdf)
 
-And this:
-
-- [Active liquidity management for protocols (substack.com)](https://kydo.substack.com/p/palm-protocol-owned-active-liquidity)
-
 ## Asset Management
 
 - [Yearn Vaults](https://docs.yearn.finance/getting-started/products/yvaults/overview)
 - [Rari Capital - Fuse (medium.com)](https://medium.com/rari-capital/fuse-explained-3ef2e0747953)
-
-Similar to [Tetranode's Locker](https://app.rari.capital/fuse/pool/6) on Rari, there could be a service that allows influencers to create custom Yearn vaults that their followers can one-click deposit liquidity into. For followers: instant yield + no time wasted trying to manually strategies; for influencers: easy way to monetize their strategies. h/t John
 
 ### Balancer
 
@@ -156,9 +164,10 @@ Decentralized banks.
 - [MakerDAO Whitepaper](https://makerdao.com/en/whitepaper/#abstract)
 - [Fei Whitepaper](https://fei.money/static/media/whitepaper.7d5e2986.pdf)
 - [Lemma Whitepaper](https://docs.lemma.finance/concepts-overview/perpetual-contracts)
-  - Sections under "Concepts Overview"
 
 ## Ramps
+
+<!-- stripe crypto -->
 
 - [tbDEX](https://github.com/TBD54566975/tbdex-whitepaper) for decentralized ramps
 - [Sardine](https://www.sardine.ai/) for faster settlement
@@ -169,56 +178,51 @@ Decentralized banks.
 - [Gauntlet Blog (medium.com)](https://medium.com/gauntlet-networks)
 - [A list of open problems in DeFi](https://mirror.xyz/0xemperor.eth/0guEj0CYt5V8J5AKur2_UNKyOhONr1QJaG4NGDF0YoQ) by [0xemperor](https://twitter.com/0x_emperor)
 - [0xalpharush/awesome-MEV-resources](https://github.com/0xalpharush/awesome-MEV-resources)
-- [Chi Gastoken (blog.1inch.io)](https://blog.1inch.io/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3) - h/t Kai
+- [Chi Gastoken (blog.1inch.io)](https://blog.1inch.io/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3)
 - [Flexible Anonymous Transactions: Flax (PDF)](https://eprint.iacr.org/2021/1249.pdf)
 
-## kZK
+## ZK
+
+Applied ZK falls into two main categories: ZK-enabled applications and ZK used at the infrastructure/L1 level.
 
 Start with these:
 
-- [ZK Learning Group Topics (notion.so)](https://0xparc.notion.site/ZK-Learning-Group-Topics-f53933eecc2f41438c6c2bdd5b42ee2d) from [0xPARC](https://0xparc.org/)
 - [A Succinct Story of Zero Knowledge](https://nibnalin.me/assets/zk.pdf) from [nibnalin](https://nibnalin.me/)
-- [ZK: Zero to Hero (notion.site)](https://steelperlot.notion.site/steelperlot/ZK-Zero-to-Hero-1157a665a4a249d9805aebd5efea6460) from [@eric_ruleman](https://twitter.com/eric_ruleman)
+- [ZK Learning Group Topics (notion.so)](https://0xparc.notion.site/ZK-Learning-Group-Topics-f53933eecc2f41438c6c2bdd5b42ee2d) from [0xPARC](https://0xparc.org/)
 
 Then dive deeper with these:
 
 - [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) from [Justin Thaler](https://people.cs.georgetown.edu/jthaler/)
 - https://people.eecs.berkeley.edu/~alexch/#teaching
-  - Specifically [CS602: Foundations of Probabilistic Proofs (S2022)](https://people.eecs.berkeley.edu/~alexch/classes/CS602-S2022.html)
+  - [CS602: Foundations of Probabilistic Proofs (S2022)](https://people.eecs.berkeley.edu/~alexch/classes/CS602-S2022.html)
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
 
-And check out these hacks:
+And check out these ZK-enabled hacks:
 
 - https://0xparc.org/blog
-- [Thinking in ZK](https://mirror.xyz/0x3FD6f213ae1B8a7B6bd8f14BE9BF316a5e5A5d28/VTGpmEYLKIslUPf66VQzHUneB0R7EhMpJJ_mGrMvTwY)
 - [guiltygyoza](https://github.com/guiltygyoza?tab=repositories) on [StarkNet + Cairo](https://www.cairo-lang.org/docs/)
 
-For more background:
+For more background on cryptography:
 
-### Cryptography
-
-**Asymetric Encryption**
-
-- [RSA Algorithm](https://www.di-mgt.com.au/rsa_alg.html)
-- [Math of Elliptic Curves](https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3)
-- [Digital Signature Algorithm](https://en.wikipedia.org/wiki/Digital_Signature_Algorithm)
-- [Elliptic Curve Signatures](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
-- [Shamirs Secret Sharing (youtube.com)](https://www.youtube.com/watch?v=iFY5SyY3IMQ)
+- [Coding and Number Theory (PDF)](https://gitlab.com/david-bristol/coconut/-/blob/master/PDF/coconut-all.pdf)
+- [A Computational Introduction to Number Theory
+  and Algebra (PDF)](https://shoup.net/ntb/ntb-v2.pdf) from Victor Shoup
+- [Abstract algebra notes](https://crypto.stanford.edu/pbc/notes/) from [Ben Lynn](https://crypto.stanford.edu/~blynn/)
 - [Learning with errors post-quantum (youtube.com)](https://www.youtube.com/watch?v=Lo-_ZBqGa7I&t=3263s)
-
-**SNARKs**
-
-- [Gentle introduction to zk-SNARKs (PDF)](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
-- [zk-SNARKs (vitalk.ca)](https://vitalik.ca/general/2021/01/26/snarks.html)
-- [Halo (vitalik.ca)](https://vitalik.ca/general/2021/11/05/halo.html)
-- [Halo Paper (PDF)](https://eprint.iacr.org/2020/1536.pdf)
-- [Plonk Paper (PDF)](https://eprint.iacr.org/2019/953.pdf)
-- [Plonk (vitalik.ca)](https://vitalik.ca/general/2019/09/22/plonk.html)
-- [Bullet Proofs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8418611&casa_token=fnoYbp0lh0EAAAAA:phMecxsJ9VkVcDXOdYsZU36kJf5QV8EFLbuzVOE6b28dIhjlCMzdg1D4qP-Iw0am_mArzCqf9Kw)
-- [Nova Paper (PDF)](https://eprint.iacr.org/2021/370.pdf)
-
-**Other**
-
-- [keccak](https://keccak.team/keccak.html)
 - [Pairings (youtube.com)](https://www.youtube.com/watch?v=8WDOpzxpnTE&t=4651s) from Dan Boneh
 - [Pairings (vitalik.ca)](https://vitalik.ca/general/2017/01/14/exploring_ecp.html)
+
+For more details on ZK enabling L1 infrastructure:
+
+- [Polyna (medium.com)](https://polynya.medium.com/)
+- [Core Development (devpill.me)](https://www.devpill.me/docs/core-development/introduction/)
+
+I want to point out some papers from Aleo (a ZK-enabled, privacy-first L1):
+
+- [Zexe: Enabling Decentralized Private Computation](https://eprint.iacr.org/2018/962.pdf)
+- [LEO: A Programming Language for Formally Verified, Zero-Knowledge Applications](https://eprint.iacr.org/2021/651.pdf)
+- [Proof of Necessary Work: Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
+
+And also this analysis:
+
+- [Navigating Privacy on Public Blockchains](https://wdai.us/posts/navigating-privacy/) from [Wei Dai](https://wdai.us/)
