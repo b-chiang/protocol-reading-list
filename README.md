@@ -1,8 +1,8 @@
 # protocol-reading-list
 
-This is a list of resources intended to serve as a starting point for anybody interesting in understanding how crypto protocols work under the hood.
+This is a list of resources intended to serve as a starting point for anybody interested in understanding how crypto protocols work under the hood.
 
-Relevant topics to also explore include economics, finance, optimization, game theory, theoretical CS, cryptography.
+Relevant topics include economics, finance, optimization, game theory, theoretical CS, cryptography.
 
 ## Getting Started
 
