@@ -214,7 +214,7 @@ For more background on cryptography:
 
 For more details on ZK enabling L1 infrastructure:
 
-- [Polyna (medium.com)](https://polynya.medium.com/)
+- [Polynya (mirror.xyz)](https://polynya.mirror.xyz/) 
 - [Core Development (devpill.me)](https://www.devpill.me/docs/core-development/introduction/)
 
 I want to point out some papers from Aleo (a ZK-enabled, privacy-first L1):
